@@ -9,7 +9,7 @@ Use Script to control XTU's functions whitout GUI (PerfTune.exe)
 
 Usage:
 
-- Make sure XTU (Intel(R) Extreme Tuning Utility) Service running automately
+- Make sure XTU (Intel(R) Extreme Tuning Utility) Service running automatically
 
 > The Service is usually installed with XTU automatically and starts in a while with the system login
 
