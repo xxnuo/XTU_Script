@@ -13,7 +13,7 @@ Usage:
 
 > The Service is usually installed with XTU automatically and starts in a while with the system login
 
-- Place xtu.py to any folder
+- Download and Place `xtu.py` to `C:\XTU_xmlFiles` folder
 
 - Excute the following command:
 
