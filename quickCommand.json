@@ -1,0 +1,97 @@
+{
+    "key_1o9y75y2662": {
+        "program": "cmd",
+        "cmd": "python \"C:\\XTU_xmlFiles\\xtu.py\" save",
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "customOptions": {
+            "bin": "",
+            "argv": "",
+            "ext": ""
+        },
+        "features": {
+            "explain": "XTU 省电模式",
+            "platform": [
+                "win32"
+            ],
+            "icon": "logo/cmd.png",
+            "code": "key_1o9y75y2662",
+            "cmds": [
+                "省电模式",
+                "XTU Save"
+            ]
+        },
+        "output": "ignore",
+        "tags": [
+            "XTU"
+        ],
+        "hasSubInput": false
+    },
+    "key_7awda9qgqu": {
+        "program": "cmd",
+        "cmd": "python \"C:\\XTU_xmlFiles\\xtu.py\" info",
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "customOptions": {
+            "bin": "",
+            "argv": "",
+            "ext": ""
+        },
+        "features": {
+            "explain": "XTU info",
+            "platform": [
+                "win32"
+            ],
+            "icon": "logo/cmd.png",
+            "code": "key_7awda9qgqu",
+            "cmds": [
+                "XTU Info",
+                "系统状态",
+                "超频状态"
+            ]
+        },
+        "output": "ignore",
+        "tags": [
+            "XTU"
+        ],
+        "hasSubInput": false
+    },
+    "key_77crck0ko4": {
+        "program": "cmd",
+        "cmd": "python \"C:\\XTU_xmlFiles\\xtu.py\" fix",
+        "scptarg": "",
+        "charset": {
+            "scriptCode": "",
+            "outputCode": ""
+        },
+        "customOptions": {
+            "bin": "",
+            "argv": "",
+            "ext": ""
+        },
+        "features": {
+            "explain": "XTU 性能模式",
+            "platform": [
+                "win32"
+            ],
+            "icon": "logo/cmd.png",
+            "code": "key_77crck0ko4",
+            "cmds": [
+                "性能模式",
+                "游戏模式",
+                "XTU Fix"
+            ]
+        },
+        "output": "ignore",
+        "tags": [
+            "XTU"
+        ],
+        "hasSubInput": false
+    }
+}
